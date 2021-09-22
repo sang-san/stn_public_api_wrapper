@@ -4,7 +4,7 @@ Makes using the public stn api easier.
 Example:
 ```py
 import asyncio
-from sangria_stn_public_api_wrapper import stn_public_api_wrapper
+from stn_public_api_wrapper import stn_public_api_wrapper
 
 async def main():
   key = str(input("Your Stn Api Key: "))
